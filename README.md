@@ -6,7 +6,7 @@
 
 🥐 The page I created contains information about bakeries in East London.
 
-💻 We covered:
+**💻 We covered:**
 - HTML/CSS
 - Bootstrap
 - JavaScript
