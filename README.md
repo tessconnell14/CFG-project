@@ -1,5 +1,13 @@
-This is my assignment for CFG's Web development coding kickstarter course (completed in Jan 2024).
+💗 This is my first ever coding experience!
 
-We were tasked to create and link basic HTML pages with CSS and basic JavaScript elements.
+👩‍💻 I completed CFG's Web development coding kickstarter course in Jan 2024.
 
-The page I created contains information about bakeries in East London.
+🌐 We were tasked to create and link basic HTML pages with CSS and basic JavaScript elements in a group.
+
+🥐 The page I created contains information about bakeries in East London.
+
+💻 We covered:
+- HTML/CSS
+- Bootstrap
+- JavaScript
+- UX and UI
